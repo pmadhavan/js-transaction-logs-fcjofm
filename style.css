@@ -1,0 +1,22 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.container {
+  text-align: center;
+}
+
+.transaction {
+  display: flex;
+  flex: 1;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.cardholder {
+  border: 2px solid #eee;
+  padding: 1rem;
+}
+.failed {
+  color: red;
+}
