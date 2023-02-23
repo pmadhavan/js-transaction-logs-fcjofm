@@ -16,6 +16,7 @@ h2 {
 .cardholder {
   border: 2px solid #eee;
   padding: 1rem;
+  width: 350px;
 }
 .failed {
   color: red;
